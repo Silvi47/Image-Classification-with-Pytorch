@@ -1,4 +1,4 @@
-# Image-Classification-with-Pytorch
+# Vegetables Image Classification with Pytorch
 
 **Train and Val Accuracy**
 The accuracy of validation data is 94% using CNN Architecture
